@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi there! <br>🚀 I'm Sai Madhuri Bodapati, a passionate tech enthusiast <br>🎓 I'm a  CS student at IIIT Gwalior<br>🌐 Currently exploring the realms of Web Development<br>📚 Constantly learning and staying up-to-date with the latest tech trends<br>📫 Feel free to reach out at: s.madhuri2k23@gmail.com     <a href="https://www.linkedin.com/in/sai-madhuri-bodapati/">Linkedin</a>   <a href="https://github.com/Madhuri36">GitHub</a><br><br>Happy Learning! 👩🏻‍💻✨
+👋🏻 Hi there! <br>🚀 I'm Sai Madhuri Bodapati, a passionate tech enthusiast <br>🎓 I'm a  CS student at IIIT Gwalior<br>🌐 Currently exploring the realms of Web Development<br>📚 Constantly learning and staying up-to-date with the latest tech trends<br>📫 Feel free to reach out at:<a href="https://www.linkedin.com/in/sai-madhuri-bodapati/">Linkedin</a>   <a href="https://github.com/Madhuri36">GitHub</a><br><br>Happy Learning! 👩🏻‍💻✨
 
 
 ## 🌐 Socials:
