@@ -40,8 +40,3 @@
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri36&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=450&custom_height=250) | ![](https://github-contributor-stats.vercel.app/api?username=Madhuri36&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&border_color=000000) |
 
 
-
-
-[![](https://visitcount.itsvg.in/api?id=Madhuri36&icon=0&color=11)](https://visitcount.itsvg.in)
-
-
