@@ -1,5 +1,5 @@
 
-<img src="mypic.png" />
+<img src="mybanner.png" />
 
 <div>
   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
@@ -7,7 +7,7 @@
 
 <!--Header Name-->
 #  About Me: 
-*Programmer / Open Source Contributor / Web Development*
+*Programmer / Open Source Contributor / Web Developer*
 <br /> 
 
 <!--Start Intro-->               
@@ -18,9 +18,9 @@
 
 - 🌐 Currently exploring the realms of Web Development.
 - ❤ Open Source Contributor.
-- 💫 Selected as a contributor for the Prestiguous GSSoC'24 program.
+- 💫 Ranked among the top 200 contributors in GSSoC'24 with 15+ PRs merged and gaining 6 badges of accomplishment.
 - 📚 Constantly learning and staying up-to-date with the latest tech trends.
-- 📫 Feel free to reach out at: [Linkedin](https://www.linkedin.com/in/sai-madhuri-bodapati/) and [GitHub](https://github.com/Madhuri36).<br>
+- 📫 Reach out to me at: [Linkedin](https://www.linkedin.com/in/sai-madhuri-bodapati/), [LeetCode](https://leetcode.com/u/Sai-Madhuri/) and [GitHub](https://github.com/Madhuri36).<br>
 
 <p align="left">Happy Learning! 👩🏻‍💻✨ </p>
 <!--End Intro-->
