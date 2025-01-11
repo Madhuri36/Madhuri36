@@ -4,8 +4,8 @@
 <div>
   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 </div>
-# 💫 About Me:
-<i></i>Programmer / Open Source Contributor / Web Developer</i><br><br>I am an Undergraduate student pursuing Computer Science Engineering<br>from IIIT Gwalior. As a passionate tech enthusiast, I thrive on exploring the<br>ever-evolving world of technology and immersing myself in the latest innovations.<br><br>🌐 Currently exploring the realms of Web Development.<br>❤ Open Source Contributor.<br>💫 Ranked among the top 200 contributors in GSSoC'24 with 15+ PRs merged and gaining 6 badges of accomplishment.<br>📚 Constantly learning and staying up-to-date with the latest tech trends.<br>📫 Reach out to me at: Linkedin, LeetCode and GitHub.<br>Happy Learning! 👩🏻‍💻✨
+# 💫 About Me:<br>
+<i>Programmer / Open Source Contributor / Web Developer</i><br><br>I am an Undergraduate student pursuing Computer Science Engineering<br>from IIIT Gwalior. As a passionate tech enthusiast, I thrive on exploring the<br>ever-evolving world of technology and immersing myself in the latest innovations.<br><br>🌐 Currently exploring the realms of Web Development.<br>❤ Open Source Contributor.<br>💫 Ranked among the top 200 contributors in GSSoC'24 with 15+ PRs merged and gaining 6 badges of accomplishment.<br>📚 Constantly learning and staying up-to-date with the latest tech trends.<br>📫 Reach out to me at: Linkedin, LeetCode and GitHub.<br>Happy Learning! 👩🏻‍💻✨
 
 
 ## 🌐 Socials:
