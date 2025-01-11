@@ -2,8 +2,7 @@
 <img src="mybanner.png" />
 
 <div>
-<!--   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">  -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 </div>
 
 
