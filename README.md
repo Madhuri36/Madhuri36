@@ -1,4 +1,4 @@
-## 💫 About Me:<br>
+## 💫 About Me
 <i>Full-Stack Web Developer | Open Source Contributor | Tech Enthusiast</i>
 
 🎓 I'm an undergraduate pursuing Computer Science at IIIT Gwalior, driven by a deep curiosity for building impactful tech solutions. <br />
@@ -6,7 +6,7 @@
 💡 I’m passionate about open source and love contributing to collaborative projects that make a difference.<br>
 💫 Ranked among the top 200 contributors in GSSoC'24 with 15+ PRs merged and gaining 6 badges of accomplishment.<br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 **Languages:** ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
