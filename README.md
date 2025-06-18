@@ -23,6 +23,23 @@
 **Design & UI:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Madhuri36&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri36&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="left">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhuri36&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri36&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+</div>
