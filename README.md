@@ -1,6 +1,4 @@
 ## 💫 About Me
-<i>Full-Stack Web Developer | Open Source Contributor | Tech Enthusiast</i>
-
 🎓 I'm an undergraduate pursuing Computer Science at IIIT Gwalior, driven by a deep curiosity for building impactful tech solutions. <br />
 🌐 Currently focused on mastering Full Stack Web Development. <br />
 💡 I’m passionate about open source and love contributing to collaborative projects that make a difference.<br>
