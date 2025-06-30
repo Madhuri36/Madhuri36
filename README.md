@@ -2,7 +2,7 @@
 🎓 I'm an undergraduate pursuing Computer Science at IIIT Gwalior, driven by a deep curiosity for building impactful tech solutions. <br />
 🌐 Currently focused on mastering Full Stack Web Development. <br />
 💡 I’m passionate about open source and love contributing to collaborative projects that make a difference.<br>
-💫 Ranked among the top 200 contributors in GSSoC'24 with 15+ PRs merged and gaining 6 badges of accomplishment.<br>
+💫 Ranked among the top 200 contributors in GSSoC'24 with 15+ PRs merged.<br>
 
 ## 💻 Tech Stack
 
