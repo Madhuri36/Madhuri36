@@ -35,18 +35,12 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Madhuri36&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
 
 </td>
-<td width="33%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuri36&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF" height="150" alt="GitHub Streak" />
-
-</td>
-<td width="33%">
-
+<td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri36&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
@@ -55,4 +49,3 @@
 </table>
 
 </div>
-
