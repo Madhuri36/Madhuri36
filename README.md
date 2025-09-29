@@ -1,10 +1,13 @@
-## 💫 About Me
-🎓 I'm an undergraduate pursuing Computer Science at IIIT Gwalior, driven by a deep curiosity for building impactful tech solutions. <br />
-🌐 Currently focused on mastering Full Stack Web Development. <br />
-💡 I’m passionate about open source and love contributing to collaborative projects that make a difference.<br>
-💫 Ranked among the top 200 contributors in GSSoC'24 with 15+ PRs merged.<br>
+## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 💻 Tech Stack
+🎓 I'm an undergraduate pursuing Computer Science at IIIT Gwalior, driven by a deep curiosity for building impactful tech solutions. <br/>
+💻 A Full Stack Developer specializing in the **MERN stack**, crafting scalable and user-friendly applications. <br/>
+🌐 Currently exploring the exciting world of **AI/ML** to bridge intelligent systems with modern web solutions. <br/>
+💡 Passionate about **open source**, I love contributing to collaborative projects that create real impact. <br/>
+🚀 Ranked among the **Top 200 contributors in GSSoC'24** with 15+ PRs successfully merged. <br/>
+
+
+## 💻 Tech Stack I work with
 
 **Languages:**  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)  ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 
@@ -26,18 +29,24 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <div align="left">
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Madhuri36&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
 
 </td>
-<td width="50%">
+<td width="33%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuri36&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF" height="150" alt="GitHub Streak" />
+
+</td>
+<td width="33%">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri36&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
@@ -46,3 +55,4 @@
 </table>
 
 </div>
+
