@@ -1,6 +1,6 @@
 ## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sai Madhuri !
 
-🎓 A Computer Science undergraduate at IIIT Gwalior with a strong foundation in Full Stack Development, Artificial Intelligence, and Machine Learning. <br/>
+🎓 A Computer Science undergraduate at IIIT Gwalior with a strong foundation in Full Stack Development, Artificial Intelligence and Machine Learning. <br/>
 💻 A Full Stack Developer specializing in the **MERN stack**, experienced in designing and developing scalable web applications. <br/>
 🤖 An AI/ML Developer with hands-on experience in Computer Vision, Deep Learning, Transfer Learning, and Quantum Machine Learning. <br/>
 🚀 An Open-source contributor ranked among the Top 200 contributors in GSSoC'24 with 15+ merged pull requests. <br/>
